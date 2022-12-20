@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2022-12-20
-img: submarine.png
+img: Screen Shot 2022-12-20 at 19.50.37.png
 alt: image-alt
 project-date: May 2020
-client: Engineering Project I
+course: Engineering Project I
 category: Game Development
 description: In this project we’ll look at how we can use Python to create a 2D game. To solve this we would use PyGame which makes it easy to both understand the very basics of game programming and python. At the end of this project we will have a playable breakout game that we’ve written from start to stop using Python together with PyGame.
 ---
