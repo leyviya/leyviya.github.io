@@ -8,17 +8,6 @@ skills: "Computer/Software Engineer - Tech Enthusiast - AI Nerd"
 lang: "en, azerbaijani, turkish"
 meta_author: LastName FirstName
 
-# Portfolio
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Machine Learning & AI
-description: Age & Gender Detection
-
 # Google webmaster tools
 google_verify:
 
