@@ -4,12 +4,12 @@ email: leyla.violetta05@gmail.com
 url: https://github.com/leyviya/leyviya.github.io
 description: " Hi! I'm Leila, an ambitious tech enthusiast from Baku, Azerbaijan, studying in Istanbul, Turkey. I'm a senior year Computer Engineering student at Beykoz University. My main interest field is Machine Learning, AI, and Data Analytics."
 keywords: "software, tech"
-skills: "Computer/Software Engineer - Tech Enthusiast - AI Nerd"
+skills: "Computer Engineer /Software Developer - Tech Enthusiast - AI Nerd"
 lang: "en, azerbaijani, turkish"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-google_verify:
+google_verify: 
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -35,8 +35,8 @@ color:
 footer:
   copyright: leyviya♥︎
   location: Turkey
-  social: Around the Web
-  credits: Credits
+  social: Contact
+  web profile links: Web Profile Links:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,8 +56,8 @@ address:
   - line: Sancaktepe
   - line: Istanbul
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Linktr.ee content
+Web Profile Links : 'You can find all my social and professional web profile links from my "Linktr.ee" : <a href="https://linktr.ee/leyviya"</a>.'
 
 # Build settings
 markdown: kramdown
@@ -68,5 +68,5 @@ defaults:
   - scope:
       path: ""
       type: "posts"
-    values:
+      values:
       permalink: ""
