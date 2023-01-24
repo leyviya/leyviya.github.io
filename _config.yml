@@ -36,7 +36,7 @@ footer:
   copyright: leyviya♥︎
   location: Turkey
   social: Contact
-  web profile links: Web Profile Links
+  credits: Web Profile Links
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,7 +57,7 @@ address:
   - line: Istanbul
 
 # Linktr.ee content
-web profile links : 'You can find all my social and professional web profile links from my "Linktr.ee" : <a href="https://linktr.ee/leyviya"</a>.'
+credits : 'You can find all my social and professional web profile links from my "Linktr.ee" : <a href="https://linktr.ee/leyviya"</a>.'
 
 # Build settings
 markdown: kramdown
