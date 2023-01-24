@@ -5,7 +5,7 @@ url: https://github.com/leyviya/leyviya.github.io
 description: " Hi! I'm Leila, an ambitious tech enthusiast from Baku, Azerbaijan, studying in Istanbul, Turkey. I'm a senior year Computer Engineering student at Beykoz University. My main interest field is Machine Learning, AI, and Data Analytics."
 keywords: "software, tech"
 skills: "Computer Engineer /Software Developer - Tech Enthusiast - AI Nerd"
-lang: "en, azerbaijani, turkish"
+lang: "english, azerbaijani, turkish"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: c8a2c8 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "200,162,200" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
