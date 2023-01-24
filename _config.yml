@@ -57,7 +57,7 @@ address:
   - line: Istanbul
 
 # Linktr.ee content
-credits : 'You can find all my social and professional web profile links from my "Linktr.ee" <a href="https://linktr.ee/leyviya"</a>.'
+credits : 'You can find all my social and professional web profile links from my "Linktr.ee" <a href="https://linktr.ee/leyviya">Linktr.ee</a>.'
 
 # Build settings
 markdown: kramdown
