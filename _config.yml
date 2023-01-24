@@ -9,7 +9,7 @@ lang: "en, azerbaijani, turkish"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-google_verify: google-site-verification: googled9587bd991abb2a6.html
+google_verify: "https://search.google.com/google-site-verification:googled9587bd991abb2a6.html"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
