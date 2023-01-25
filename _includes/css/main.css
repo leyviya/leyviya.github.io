@@ -181,7 +181,7 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #000000;
     background: #{{ site.color.primary }};
 }
 
@@ -350,7 +350,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #000000;
 }
 
 footer {
