@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: leyviya♥︎
-  location: Turkey
+  location: Location
   social: Contact
   credits: Web Profile Links
 
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Sancaktepe
-  - line: Istanbul
+  - line: Istanbul, Turkey. 🇹🇷
+  - line: Baku, Azerbaijan. 🇦🇿
 
 # Linktr.ee content
 credits : 'You can find all my social and professional web profile links from <a href="https://linktr.ee/leyviya">Linktr.ee</a>.'
