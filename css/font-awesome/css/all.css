@@ -480,7 +480,7 @@
   font-size: 2em; }
 
 .fa-inverse {
-  color: var(--fa-inverse, #fff); }
+  color: var(--fa-inverse, #000000); }
 
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
 readers do not read off random characters that represent icons */
