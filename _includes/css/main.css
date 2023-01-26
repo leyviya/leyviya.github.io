@@ -477,7 +477,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-.navbar-nav>.active>a {
+.navbar-nav>.active> {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
 
