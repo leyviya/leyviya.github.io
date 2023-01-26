@@ -26,7 +26,8 @@ description: The description of the project
 View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+<img width="1424" alt="Screen Shot 2023-01-25 at 19 56 48" src="https://user-images.githubusercontent.com/63939366/214907214-31229d5e-fdf5-4c42-9e1c-15ce23c54a8e.png">
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
