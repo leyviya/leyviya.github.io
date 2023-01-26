@@ -20,11 +20,24 @@ a,
 a:hover,
 a:focus,
 a:active,
+
+a.hover {
+     outline: 0;
+     color: #3d3d3d;
+     background-color: #161616;
+}
+a.focus {
+     outline: 0;
+     color: #3d3d3d;
+     background-color: transparent;
+}
 a.active {
     outline: 0;
     color: #3d3d3d;
     background-color: transparent;
 }
+
+
 
 h1,
 h2,
