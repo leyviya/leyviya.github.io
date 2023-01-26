@@ -28,6 +28,7 @@ a.active {
 a.active {
     outline: 0;
     color: #fff;
+    background-color: transparent
 }
 
 h1,
