@@ -23,11 +23,7 @@ a:active,
 a.active {
     outline: 0;
     color: #3d3d3d;
-}
-a.active {
-    outline: 0;
-    color: #fff;
-    background-color: #3d3d3d;
+    background-color: 000000;
 }
 
 h1,
