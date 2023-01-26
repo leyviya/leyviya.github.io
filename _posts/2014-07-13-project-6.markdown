@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2022-12-20
-img: Screen Shot 2022-12-20 at 19.50.37.png
+date: 2014-07-13
+img: projectdemo (online-video-cutter.com).gif
 alt: image-alt
 project-date: May 2020
-course:  Engineering Project I
-category: Game Development
-description: In this project we’ll look at how we can use Python to create a 2D game. To solve this we would use PyGame which makes it easy to both understand the very basics of game programming and python. At the end of this project we will have a playable breakout game that we’ve written from start to stop using Python together with PyGame.
+client:  Engineering Project I
+category: PyGame || Python 🐍 || Game Development 
+description: 2D Platform game created with PyGame Library with  Python. The output is a playable breakout game that I’ve written from start to stop using Python together with PyGame. You can see the project demo, source code and all the related documents related the game from the link below - 
+https://github.com/leyviya/2D-platform-game-python
 ---
