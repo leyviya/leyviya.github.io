@@ -24,12 +24,12 @@ a:active,
 a.hover {
      outline: 0;
      color: #3d3d3d;
-     background-color: #161616;
+     background-color: transparent;
 }
 a.focus {
      outline: 0;
      color: #3d3d3d;
-     background-color: transparent;
+     background-color: #161616;
 }
 a.active {
     outline: 0;
