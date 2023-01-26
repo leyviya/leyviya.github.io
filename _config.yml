@@ -57,7 +57,7 @@ address:
   - line: Baku, Azerbaijan. 🇦🇿
 
 # Linktr.ee content
-credits : 'You can find all my social and professional web profile links from <a<p href="https://linktr.ee/leyviya">Linktr.ee.</p></a>'
+credits : 'You can find all my social and professional web profile links from <p<a href="https://linktr.ee/leyviya">Linktr.ee</a></p>'
 
 # Build settings
 markdown: kramdown
