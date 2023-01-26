@@ -380,8 +380,8 @@ footer .footer-above {
     background-color: #{{ site.color.secondary }};
 }
 
-.link { color: #FF0000; } /* CSS link color (red) */
-.link:hover { color: #00FF00; } /* CSS link hover (green) */
+.link { color: #fff; } /* CSS link color (red) */
+.link:hover { color: #fff; } /* CSS link hover (green) */
 
 footer .footer-col {
     margin-bottom: 50px;
