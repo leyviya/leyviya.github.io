@@ -367,9 +367,6 @@ form .row:first-child .floating-label-form-group {
     border-top: 1px solid #000000;
 }
 
-.link { color: #FF0000; } /* CSS link color (red) */
-.link:hover { color: #00FF00; } /* CSS link hover (green) */
-
 footer {
     color: #fff;
 }
@@ -382,6 +379,9 @@ footer .footer-above {
     padding-top: 50px;
     background-color: #{{ site.color.secondary }};
 }
+
+.link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #00FF00; } /* CSS link hover (green) */
 
 footer .footer-col {
     margin-bottom: 50px;
