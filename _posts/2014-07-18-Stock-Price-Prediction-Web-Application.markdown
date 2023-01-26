@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-01-24
-img: Screen Shot 2023-01-24 at 19.40.20 (1).png
+img: Build A Stock Prediction Web App In Python (online-video-cutter.com).gif
 alt: image-alt
 project-date: June 2022
 client: Engineering Project III
