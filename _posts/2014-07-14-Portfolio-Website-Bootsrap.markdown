@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: Untitled (3).mp4
+img: ezgif-2-039f0f915d.gif
 alt: image-alt
 project-date: January 2023
 client: Frontend Development
